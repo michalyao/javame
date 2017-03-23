@@ -6,6 +6,7 @@
 
     <groupId>me.yoryor.java</groupId>
     <artifactId>javame</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -37,6 +38,7 @@
 
     <modules>
         <module>abstractdocument</module>
+        <module>abstractfactory</module>
     </modules>
 
     <dependencyManagement>
