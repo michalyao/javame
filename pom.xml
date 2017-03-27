@@ -39,6 +39,7 @@
     <modules>
         <module>abstractdocument</module>
         <module>abstractfactory</module>
+        <module>adapter</module>
     </modules>
 
     <dependencyManagement>
