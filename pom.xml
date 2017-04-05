@@ -40,6 +40,7 @@
         <module>abstractdocument</module>
         <module>abstractfactory</module>
         <module>adapter</module>
+        <module>bridge</module>
     </modules>
 
     <dependencyManagement>
