@@ -42,6 +42,7 @@
         <module>adapter</module>
         <module>bridge</module>
         <module>asyncmethodinvocation</module>
+        <module>businessdelegate</module>
     </modules>
 
     <dependencyManagement>
